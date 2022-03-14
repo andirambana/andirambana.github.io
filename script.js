@@ -40,7 +40,7 @@ function initSnake(color) {
     score: 0,
     level: 1,
     speed: 100,
-    nyawa: 1,
+    nyawa: 3,
   };
 }
 let snake1 = initSnake("green");
